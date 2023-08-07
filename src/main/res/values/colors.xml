@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_defult">#FFC107</color>
+    <color name="yellow_default">#FFC107</color>
+    <color name="grey">#070707</color>
+    <color name="yellow">#FFC107</color>
+    <color name="black">#3E3939</color>
+</resources>
